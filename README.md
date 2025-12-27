@@ -46,3 +46,44 @@ Cada equipo deberá cubrir, como mínimo, las siguientes fases:
 - Qué ha funcionado y qué no.
 - Limitaciones del enfoque.
 - Posibles mejoras o siguientes pasos.
+### 5. Formato del entregable
+#### 5.1 Entregable principal (obligatorio)
+#### Repositorio de código (GitHub (o semejante) o ZIP estructurado) con:
+```text
+/project
+├── data/            # Datos (o instrucciones para obtenerlos)
+├── notebooks/       # Jupyter Notebooks (EDA, modelado, evaluación)
+├── results/         # Figuras, métricas, outputs
+├── README.md        # Resumen y presentación del código
+└── requirements.txt # Dependencias / librerías
+```
+
+#### ¡Importante!
+- Código ejecutable y ordenado.
+- Comentarios claros (no excesivos).
+- Uso correcto de librerías estándar (numpy, pandas, sklearn, etc.).
+- Reproducibilidad (semillas aleatorias cuando aplique).
+#### 5.2 Informe técnico (obligatorio)
+#### Formato: PDF (≈ 8–12 páginas).
+#### Debe incluir:
+1. Introducción y contexto del problema.
+2. Descripción del dataset.
+3. Metodología seguida.
+4. Modelos utilizados y justificación.
+5. Resultados y evaluación.
+6. Conclusiones.
+7. Reparto de tareas del equipo.
+#### ¡Importante!
+- En el informe no se debe incluir código, sino referencias al mismo cuando sea necesario. Es decir, el informe no sustituye al código: lo complementa.
+5.3 Defensa oral
+- Duración: 10–15 minutos por equipo.
+- Todos los miembros deben intervenir.
+- Enfocada en:
+    - Decisiones clave.
+    - Resultados.
+    - Aprendizajes.
+#### ¡Importante!
+- La presentación debe ser una explicación oral del informe y de todo
+el trabajo. No hace falta añadir código.
+- Lo que quiero es que me expliqueis en grupo, qué hicisteis, por qué,
+para qué, cómo y qué resultados obtuvisteis.
