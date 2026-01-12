@@ -1,3 +1,8 @@
+
+## ML Diabetes Prediction Challenge
+### Para instar las librerías utilizadas en los notebooks de este proyecto se puede utilizar el archivo requiremets. Para ello ejecutar:
+### python -m pip install -r requirements.txt
+
 ## ML Challenge: Aprendizaje Supervisado y No Supervisado
 ### 1. Contexto
 La tarea consiste en resolver un challenge de Machine Learning en equipo aplicando los conocimientos adquiridos en el módulo de Aprendizaje Supervisado y No Supervisado, así como los modelos descritos en el documento MLpedia.
